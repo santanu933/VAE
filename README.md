@@ -27,10 +27,6 @@ The code relies on the following Python libraries:
 - Matplotlib
 - SciPy
 
-## Training
-
-1. Run the training script to train the VAE:
-
 
 ## Training
 
